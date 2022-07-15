@@ -40,5 +40,19 @@
     "tsup": "^6.1.3",
     "typescript": "^4.4.2",
     "web-vitals": "^2.1.0"
-  }
+  },
+  "files": [
+    "dist"
+  ],
+  "main": "dist/App.js",
+  "types": "dist/App.d.ts",
+  "author": {
+    "name": "David Y. Stephenson",
+    "email": "david@davidystephenson.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidystephenson/canvas-fc-theater"
+  },
+  "license": "Unlicense"
 }
