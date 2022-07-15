@@ -9,7 +9,7 @@ type TheaterProps = CanvasFcProps & {
   height: number
 }
 
-export default function App (props: TheaterProps): JSX.Element {
+export default function CanvasFcTheater (props: TheaterProps): JSX.Element {
   return (
     <>
       <GlobalStyle />
